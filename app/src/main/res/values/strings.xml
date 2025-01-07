@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">HistoWeather</string>
+
+    <!-- Location Page-->
+    <string name="search_hint">City Name</string>
+    <string name="current_location_full">Current Location</string>
+    <string name="current_location">Current</string>
+
+    <!-- Weather Page -->
+    <string name="retry">Retry</string>
+    <string name="err_current_location_invalid">Location has not been obtained yet. If the Error persists, check your device Settings</string>
+    <string name="err_no_location">Please select a valid location and try again.</string>
+    <string name="err_timeout">Timeout while loading data.</string>
+    <string name="err_unexpected">Unexpected error occurred.</string>
+
+    <!-- Settings Page -->
+    <string name="settings_title">Settings</string>
+    <string name="s_theme">Theme</string>
+    <string name="s_units">Units</string>
+    <string name="s_metric">Metric</string>
+    <string name="s_metric_full">Metric: °C, mm</string>
+    <string name="s_imperial">Imperial</string>
+    <string name="s_imperial_full">Imperial: °F, inch</string>
+
+    <!-- Widgets -->
+    <string name="current_widget">Current</string>
+    <string name="hourly_widget">Hourly</string>
+    <string name="daily_widget">Daily</string>
+    <string name="hourly_compare_widget">Hourly</string>
+    <string name="daily_compare_widget">Daily</string>
+</resources>
